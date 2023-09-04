@@ -55,7 +55,7 @@ nav{
 /* hero styling */
 
 .hero{
-    background: url(./img/pexels-mikael-blomkvist-6476260.jpg) center/cover no-repeat;
+    background: url(./img/main-image.jpg) center/cover no-repeat;
     display: flex;
     justify-content: right;
     align-items: center;
@@ -138,10 +138,14 @@ nav{
     cursor: pointer;
 }
 
+.services-box a{
+    text-decoration: none;
+    color: #2277f8;
+}
+
 .services-box h2{
     border-top: 3px solid #152a49;
     padding: 15px 0;
-    color: #2277f8;
 }
 
 /* vision styling */
